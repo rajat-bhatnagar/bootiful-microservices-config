@@ -5,7 +5,5 @@
 <i><a href="http://localhost:8888/app2/default">http://localhost:8888/app2/default</a></i><br>
 <i><a href="http://localhost:8888/app3/default">http://localhost:8888/app3/default</a></i><br>
 
-<u><b> WORK IN PROGRESS ( Notes)</b></u><br>
-<i>1. Create a ConfigServer Client(Seperate GIT Project) and Read Configuration from Config Server<br>
-<i>2. Refactor existing code / Add Spock dependency and add tests/<i><br>
-<i>3. Resiliency and self healing microservices( explore)</i><br>
+<u><b>Notes</b></u><br>
+<i>1. Create a ConfigServer Client(Seperate GIT Project) and Read Configuration from Config Server (https://github.com/rajat-bhatnagar/spring-cloud-configserver-git)<br>
